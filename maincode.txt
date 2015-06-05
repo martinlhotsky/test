@@ -1,1 +1,3 @@
 Adding some main code for commit
+
+This text is part of branch
